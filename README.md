@@ -11,4 +11,4 @@ In order to gain this new functionality, you'll have to modify your [original](h
 4. Make sure that the the information stays in sync!
 
 ## Bonus
-Add a method that allows for deleting a post.  Again, make sure that your information stays in sync.
+Add a method that allows for deleting a post.  Again, make sure that your information stays in sync. 
